@@ -1,0 +1,62 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.banner{
+    margin-top:140px ;
+}
+.container{
+    margin-bottom: 70px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(244, 95, 95);
+}
+.buy-button{
+    background-image: linear-gradient(to bottom,rgb(246, 63, 93)0%,rgb(84, 3, 16)100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1{
+    background-color: rgb(156, 227, 50);
+}
+.cat2{
+    background-color:coral;
+}
+.cat3{
+    background-color: rgb(70, 204, 204);
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagory h1{
+    color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.send-button{
+    background-image: linear-gradient(to bottom,rgb(182, 245, 182) 0%,rgb(4, 171, 4) 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    height: 41px;
+    border: none;
+    
+}
+#subscripe{
+    height: 300px;
+}
+#subscripe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
